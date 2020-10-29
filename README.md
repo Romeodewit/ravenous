@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is essential a very basic Yelp clone which uses the Yelp API. It will allow you to search restaurants by catagory in cities around the world.
+
 ## Available Scripts
 
 In the project directory, you can run:
